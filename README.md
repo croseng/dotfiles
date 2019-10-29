@@ -1,5 +1,5 @@
 # dotfiles
-Personal dotfiles setup
+Carl Rosengrens personal dotfiles setup. Forked from Niklas Hätty.
 
 ## Description
 Most of the dotfiles are copied from their original authors and modified to my liking.
@@ -11,7 +11,7 @@ Credit is given in files where applicable. All credit to the original authors :)
 **bar:** polybar  
 **launcher:** rofi  
 **notifications:** dunst  
-**extras:** compton, sublime, themes and icons in gtk/
+**extras:** compton, sublime, flameshot,  themes and icons in gtk/
 
 ## Dependencies  
 
@@ -42,7 +42,7 @@ This will update your download mirrors and then update the list from primary mir
 2) Install the dependencies available in pacman
     
     ```
-    sudo pacman -S git compton polybar rofi dunst ttf-font-awesome feh bash-completion
+    sudo pacman -S git compton polybar rofi dunst ttf-font-awesome feh bash-completion flameshot
     ```
 
 3) Install dependencies available in AUR
