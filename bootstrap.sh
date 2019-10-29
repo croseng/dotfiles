@@ -2,6 +2,7 @@
 
 ##  Author: Niklas Hätty
 ##  Dotfiles: https://github.com/niklashaetty/dotfiles.git
+##  Modified for X1 Carbon with external ultrawide 1440p monitor by Carl Rosengren (croseng)
 ## 
 ##  Bootstrap i3 with my personal dotfiles. Use freely.
 ## 
@@ -15,6 +16,8 @@
 ##         * dunst
 ##         * fontawesome
 ##         * feh
+##         * fireshot
+##         * xfce4-screenshooter
 ##    2) git clone https://github.com/niklashaetty/dotfiles.git ~/repositories/dotfiles
 ##    3) cd ~repositories/dotfiles
 ##    4) chmod +x bootstrap.sh
