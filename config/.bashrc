@@ -160,5 +160,8 @@ alias gl='git log --oneline -n 10'
 alias gp='git push'
 alias proc='ps aux | grep'
 
-# Add tokens from files
-export GIT_TOKEN=$(cat ~/scripts/.git_token)
+alias cddot='cd ~/repositories/dotfiles'
+alias networks='nmtui'
+alias strapboot='sh ~/repositories/dotfiles/bootstrap.sh'
+
+alias afk='betterlockscreen -l blur'
